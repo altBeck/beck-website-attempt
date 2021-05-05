@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="75" viewBox="0 0 45 75">
+  <g id="slider" transform="translate(-277 -694)">
+    <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(277 694)">
+      <g id="Rectangle_3" data-name="Rectangle 3" fill="none" stroke="#fff" stroke-width="6">
+        <rect width="45" height="75" rx="22.5" stroke="none"/>
+        <rect x="3" y="3" width="39" height="69" rx="19.5" fill="none"/>
+      </g>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="12.5" cy="12" rx="12.5" ry="12" transform="translate(10 10)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
